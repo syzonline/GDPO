@@ -1,2 +1,2 @@
 # GDPO
-initial checkpoint for 
+initial checkpoint for batch-level Reinforce++ on search agent
